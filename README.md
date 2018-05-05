@@ -9,7 +9,8 @@
     pip install -r requirements.txt
  ```
   或者 
-  直接在OSROOM插件管理/设置中点击安装
+  
+  *直接在OSROOM插件管理/设置中点击安装*
  
 更多安装方法见:https://help.aliyun.com/document_detail/53423.html?spm=a2c4g.11186623.4.1.CcCeC8
 
