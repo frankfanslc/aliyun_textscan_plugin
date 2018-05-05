@@ -1,0 +1,11 @@
+alias_name: Aliyun文本反垃圾检测
+author: Allen Woo
+author_uri: www.osroom.com/plugin
+plugin_uri: www.osroom.com/plugin
+introduce: 业务安全,调用阿里云的文本反垃圾API, 检测文本.
+version: v0.1
+license: BSD-3
+hook_name: content_inspection_text
+startup_file_name: main.py
+execution_func_name: main
+
