@@ -1,4 +1,4 @@
-## OSROOM开源系统的阿里云Aliyun 文本垃圾检查 API调用插件
+## OSROOM开源系统插件:阿里云Aliyun文本反垃圾API调用
 ### 注意:
 - 1.使用前请配置好config.py, 再压缩上传安装(或直接放入osroom项目的apps/plugins目录下)
 
