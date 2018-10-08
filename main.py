@@ -5,7 +5,7 @@ import json
 import uuid
 from aliyunsdkcore import client
 from aliyunsdkcore.profile import region_provider
-from aliyunsdkgreen.request.v20170825 import TextScanRequest
+from aliyunsdkgreen.request.v20180509 import TextScanRequest
 from apps.core.plug_in.config_process import get_plugin_config, import_plugin_config
 from apps.plugins.aliyun_textscan_plugin.config import PLUGIN_NAME, CONFIG
 
