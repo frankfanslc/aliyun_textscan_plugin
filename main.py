@@ -48,7 +48,7 @@ def main(**kwargs):
                      }
         tasks.append(task)
 
-    request.set_content(json.dumps({"tasks": tasks, "scenes": ["antispam"]}, "utf-8"))
+    request.set_content(json.dumps({"tasks": tasks, "scenes": ["antispam"]}))
     response = clt.do_action_with_exception(request)
     result = json.loads(response.decode("utf-8"))
     data = {"label":"review", "score":0}
